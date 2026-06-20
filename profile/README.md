@@ -10,7 +10,7 @@ Primate runs your app, walks the pages your changes touch, and posts screenshots
 ### What we do
 
 - **Visual QA on every PR** — Primate catches UI bugs before they reach production
-- **Right in your PR** — findings post as a comment, screenshots and all, dashboards, logs, etc all come secondary
+- **Right in your PR** — findings post as a comment with screenshots. Dashboards, logs, etc all come secondary
 - **API & auth mocking** — an agent figures out what your app's API calls do and mocks them, auth included, so any page gets tested with nothing connected
 - **Multi-viewport coverage** — desktop, tablet, and mobile, all checked before merge
 
